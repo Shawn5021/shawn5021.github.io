@@ -16,4 +16,4 @@ Welcome to my portfolio. Below are selected projects. Click to see code, noteboo
 ## About
 MS in Business Analytics @UMN  
 4+ years in data analytics and consumer research  
-When I'm not analyzing anything, I do film photography, bouldering, and play LEGO  
+When I'm not analyzing, I do film photography, bouldering, and play LEGO  
