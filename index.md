@@ -14,6 +14,6 @@ Welcome to my portfolio. Below are selected projects. Click to see code, noteboo
 - [Power BI ERP Dashboard](projects/erp/index.md)
 
 ## About
-MS in Business Analytics @UMN
-4+ years in data analytics and consumer research.
-When I'm not analyzing anything, I do film photography, bouldering, and play LEGO.
+MS in Business Analytics @UMN  
+4+ years in data analytics and consumer research  
+When I'm not analyzing anything, I do film photography, bouldering, and play LEGO  
