@@ -4,9 +4,9 @@ layout: default
 ---
 
 # Hi, I'm Shawn!
-Data Analytics | ML | Visualization
+Data Analytics | ML | Consumer Research
 
-Welcome to my portfolio. Below are selected projects. Click to see code, notebooks, and PDFs.
+Welcome to my portfolio. Below are some of my projects. Check it out!
 
 ## Projects
 - [Sales Forecasting with LightGBM](projects/forecasting/index.md)
@@ -16,4 +16,5 @@ Welcome to my portfolio. Below are selected projects. Click to see code, noteboo
 ## About
 MS in Business Analytics @UMN  
 4+ years in data analytics and consumer research  
-When I'm not analyzing, I do film photography, bouldering, and play LEGO  
+  
+When I'm not analyzing, I do film photography, bouldering, and LEGO  
