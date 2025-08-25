@@ -26,7 +26,7 @@ Walmart can allocate inventory based on forecast results (down to item-level sal
 - High demand in week 2 for store CA_1
 - High demand on weekends for store WI_1
 ![results](images/result1.png)
-![results](images/)
+![results](images/result2.png)
 
 #### Automation as Next Step
 Developing an automated pipeline to import historical data and generate sales forecasts can enable Walmart to dynamically and efficiently adjust its inventory plans
