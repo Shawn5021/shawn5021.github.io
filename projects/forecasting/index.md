@@ -34,3 +34,11 @@ Developing an automated pipeline to import historical data and generate sales fo
 ## Artifacts
 - Notebook: [LSTM_walmart_predict_sales.html](notebooks/LSTM_walmart_predict_sales.html)
 - Report: [report.pdf](reports/report.pdf)
+
+## Acknowledgement
+Dataset/Competition: https://www.kaggle.com/c/m5-forecasting-accuracy
+This project was carried out in collaboration with the following authors:
+- Chen Ju (Maggie) Wang
+- Ya Chin (Ruth) Hsu
+- Yi Hsiang (Royce) Yen
+- Shang Chien (Shawn) Wang
