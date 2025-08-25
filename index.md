@@ -6,7 +6,7 @@ layout: default
 # Hi, I'm Shawn!
 Data Analytics | ML | Consumer Research
 
-Welcome to my portfolio. Below are some of my projects. Check it out!
+Welcome to my portfolio. Below are some of my projects. Check them out!
 
 ## Projects
 - [Retail Sales Forecasting with LSTM](projects/forecasting/index.md)
