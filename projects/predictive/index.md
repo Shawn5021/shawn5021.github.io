@@ -14,4 +14,4 @@ This project applies numeric prediction techniques to build a predictive model f
 - Evaluation metrics
 
 ## Artifacts
-- Notebook: [notebooks/predictive_modeling_on_customer_spending.ipynb](notebooks/predictive_modeling_on_customer_spending.ipynb)
+- Notebook: [notebooks/predictive_modeling_on_customer_spending.html](notebooks/predictive_modeling_on_customer_spending.html)
