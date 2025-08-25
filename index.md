@@ -13,7 +13,7 @@ Welcome to my portfolio. Below are some of my projects. Check them out!
 <div style="margin-bottom: 40px;">
 
   <p>
-    <a href="projects/forecasting/index.html" 
+    <a href="projects/forecasting/" 
        style="display:block; text-align:center; padding:15px 25px; margin:15px auto; 
               border:2px solid #007acc; border-radius:10px; background:#f0f8ff; 
               color:#007acc; text-decoration:none; font-weight:bold; 
@@ -23,7 +23,7 @@ Welcome to my portfolio. Below are some of my projects. Check them out!
   </p>
 
   <p>
-    <a href="projects/predictive/index.html" 
+    <a href="projects/predictive/" 
        style="display:block; text-align:center; padding:15px 25px; margin:15px auto; 
               border:2px solid #007acc; border-radius:10px; background:#f0f8ff; 
               color:#007acc; text-decoration:none; font-weight:bold; 
@@ -33,7 +33,7 @@ Welcome to my portfolio. Below are some of my projects. Check them out!
   </p>
 
   <p>
-    <a href="projects/neuralnetwork/index.html" 
+    <a href="projects/neuralnetwork/" 
        style="display:block; text-align:center; padding:15px 25px; margin:15px auto; 
               border:2px solid #007acc; border-radius:10px; background:#f0f8ff; 
               color:#007acc; text-decoration:none; font-weight:bold; 
