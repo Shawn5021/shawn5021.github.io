@@ -10,23 +10,21 @@ Welcome to my portfolio. Below are some of my projects. Check them out!
 
 ## Projects
 
-<p>
-  <a href="projects/forecasting/index.md" style="display:inline-block; padding:15px 25px; margin:10px; border:2px solid #007acc; border-radius:10px; background:#f0f8ff; color:#007acc; text-decoration:none; font-weight:bold;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <a href="projects/forecasting/index.md" style="flex:1; min-width:250px; max-width:300px; text-align:center; padding:20px; border:2px solid #007acc; border-radius:15px; background:#f9f9f9; color:#007acc; text-decoration:none; font-weight:bold; box-shadow:2px 2px 6px rgba(0,0,0,0.1);">
     Retail Sales Forecasting with LSTM
   </a>
-</p>
 
-<p>
-  <a href="projects/predictive/index.md" style="display:inline-block; padding:15px 25px; margin:10px; border:2px solid #007acc; border-radius:10px; background:#f0f8ff; color:#007acc; text-decoration:none; font-weight:bold;">
+  <a href="projects/predictive/index.md" style="flex:1; min-width:250px; max-width:300px; text-align:center; padding:20px; border:2px solid #007acc; border-radius:15px; background:#f9f9f9; color:#007acc; text-decoration:none; font-weight:bold; box-shadow:2px 2px 6px rgba(0,0,0,0.1);">
     Predictive Modeling on Customer Spending
   </a>
-</p>
 
-<p>
-  <a href="projects/neuralnetwork/index.md" style="display:inline-block; padding:15px 25px; margin:10px; border:2px solid #007acc; border-radius:10px; background:#f0f8ff; color:#007acc; text-decoration:none; font-weight:bold;">
+  <a href="projects/neuralnetwork/index.md" style="flex:1; min-width:250px; max-width:300px; text-align:center; padding:20px; border:2px solid #007acc; border-radius:15px; background:#f9f9f9; color:#007acc; text-decoration:none; font-weight:bold; box-shadow:2px 2px 6px rgba(0,0,0,0.1);">
     Image Classification with Neural Network
   </a>
-</p>
+
+</div>
 
 ## About
 MS in Business Analytics @UMN  
