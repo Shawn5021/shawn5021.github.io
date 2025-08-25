@@ -10,8 +10,8 @@ Welcome to my portfolio. Below are some of my projects. Check it out!
 
 ## Projects
 - [Sales Forecasting with LightGBM](projects/forecasting/index.md)
-- [Personalized Recommender System](projects/recsys/index.md)
 - [Predictive Modeling on Customer Spending](projects/predictive/index.md)
+- [Image Classification with Neural Network](projects/neuralnetwork/image_classification.md)
 
 ## About
 MS in Business Analytics @UMN  
