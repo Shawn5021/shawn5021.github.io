@@ -25,8 +25,8 @@ This project applies predictive modeling techniques to tackle structured tabular
 Walmart can allocate inventory based on forecast results (down to item-level sales forecasting). For example:
 - High demand in week 2 for store CA_1
 - High demand on weekends for store WI_1
-![results](images/result1.png)
-![results](images/result2.png)
+<img src="images/result1.png" alt="Forecast results" width="500"/>
+<img src="images/result2.png" alt="Forecast results" width="500"/>
 
 #### Automation as Next Step
 Developing an automated pipeline to import historical data and generate sales forecasts can enable Walmart to dynamically and efficiently adjust its inventory plans
@@ -36,7 +36,7 @@ Developing an automated pipeline to import historical data and generate sales fo
 - Report: [report.pdf](reports/report.pdf)
 
 ## Acknowledgement
-Dataset/Competition: https://www.kaggle.com/c/m5-forecasting-accuracy
+Dataset/Competition: https://www.kaggle.com/c/m5-forecasting-accuracy  
 This project was carried out in collaboration with the following authors:
 - Chen Ju (Maggie) Wang
 - Ya Chin (Ruth) Hsu
