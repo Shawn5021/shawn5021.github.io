@@ -8,7 +8,7 @@ Data Analytics | ML | Consumer Research
 
 Welcome to my portfolio. Below are some of my projects. Check them out!
 
-## Projects
+## 📌Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -27,7 +27,7 @@ Welcome to my portfolio. Below are some of my projects. Check them out!
 </div>
 
   
-## About
+## 👾About
 MS in Business Analytics @UMN  
 4+ years in data analytics and consumer research  
 Follow me on 🔗 [LinkedIn](https://www.linkedin.com/in/shang-chien-wang/)
