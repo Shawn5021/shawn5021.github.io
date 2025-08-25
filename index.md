@@ -16,6 +16,6 @@ Welcome to my portfolio. Below are some of my projects. Check it out!
 ## About
 MS in Business Analytics @UMN  
 4+ years in data analytics and consumer research  
-🔗 [LinkedIn](https://www.linkedin.com/in/shang-chien-wang/)
+Follow me on 🔗 [LinkedIn](https://www.linkedin.com/in/shang-chien-wang/)
   
 When I'm not analyzing, I do film photography, bouldering, and LEGO  
