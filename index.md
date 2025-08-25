@@ -26,6 +26,7 @@ Welcome to my portfolio. Below are some of my projects. Check them out!
 
 </div>
 
+  
 ## About
 MS in Business Analytics @UMN  
 4+ years in data analytics and consumer research  
