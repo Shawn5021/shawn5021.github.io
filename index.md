@@ -9,7 +9,7 @@ Data Analytics | ML | Consumer Research
 Welcome to my portfolio. Below are some of my projects. Check it out!
 
 ## Projects
-- [Sales Forecasting with LightGBM](projects/forecasting/index.md)
+- [Retail Sales Forecasting with LSTM](projects/forecasting/index.md)
 - [Predictive Modeling on Customer Spending](projects/predictive/index.md)
 - [Image Classification with Neural Network](projects/neuralnetwork/index.md)
 
