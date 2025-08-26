@@ -5,7 +5,6 @@ layout: default
 
 # Image Classification with Neural Network (CNN)
 
-## Summary
 Inspired by the Dogs vs. Cats Redux Kaggle competition, this project is a simple practice of applying Neural Network to classify pet images.
 
 ## Approach
