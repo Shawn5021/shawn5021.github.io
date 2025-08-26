@@ -15,7 +15,7 @@ This project applies predictive modeling techniques to tackle structured tabular
 - Model selected as final approach: LSTM
 
 ## Result
-#### LSTM as Forecasting Model
+LSTM as Forecasting Model
 - Better captures the pattern of long-term sequential data
 - Learns from past behavior and accommodate complex features such as promotion, holiday etc.
 - Relatively better accuracy with RMSSE of 1.50406
