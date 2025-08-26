@@ -5,7 +5,6 @@ layout: default
 
 # Retail Sales Forecasting with LSTM
 
-## Summary
 Walmart drives over $1.27B in U.S. daily sales and serves 37M customers each day, highlighting the massive potential for impact through smarter inventory planning. By predicting next month's item-level sales, Walmart can better anticipate demand shifts, align inventory with promotions and seasonal trends, and reduce costly stockouts or overstocks.
 
 This project applies predictive modeling techniques to tackle structured tabular features (calendar events, SNAP flags, prices) with sequential sales data at the store-item level. Ultimately protecting revenue and enhancing the customer experience.
@@ -21,8 +20,9 @@ This project applies predictive modeling techniques to tackle structured tabular
 - Learns from past behavior and accommodate complex features such as promotion, holiday etc.
 - Relatively better accuracy with RMSSE of 1.50406
 
+## Business Value
 #### Strategize Demand Planning
-Walmart can allocate inventory based on forecast results (down to item-level sales forecasting). For example:
+With the help of the model, Walmart can do item-level inventory planning and allocate resources across different stores based on forecast results. For example:
 - High demand in week 2 for store CA_1
 - High demand on weekends for store WI_1
 <img src="images/result1.png" alt="Forecast results" width="500"/>
