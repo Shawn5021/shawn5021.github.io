@@ -52,6 +52,6 @@ MS in Business Analytics @UMN
 • Market Researcher | Commercial Analyst @Numerator/Kantar Worldpanel  
 • Operations Intern @DHL Express  
   
-#### Let's connect! 🔗 [LinkedIn](https://www.linkedin.com/in/shang-chien-wang/)
+#### Let's connect! 🔗 [LinkedIn](https://www.linkedin.com/in/shang-chien-wang)
   
 When I'm not analyzing, I do film photography, bouldering, and LEGO  
