@@ -47,9 +47,10 @@ Welcome to my portfolio. Below are some of my projects. Check them out!
 ## 👾 About
 MS in Business Analytics @UMN  
 4+ years in data analytics and consumer research  
-• Data Analyst @Carlson Analytics Lab  
-• Market Researcher | Commercial Analyst @Numerator/Kantar Worldpanel  
-• Operations Intern @DHL Express  
+#### • Data Analyst @Carlson Analytics Lab  
+#### • Market Researcher | Commercial Analyst @Numerator/Kantar Worldpanel  
+#### • Operations Intern @DHL Express  
+  
 #### Let's connect! 🔗 [LinkedIn](https://www.linkedin.com/in/shang-chien-wang/)
   
 When I'm not analyzing, I do film photography, bouldering, and LEGO  
